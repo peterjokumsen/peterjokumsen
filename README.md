@@ -11,6 +11,16 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 ## My WakaTime
 
 <!--START_SECTION:waka-->
+
+```text
+C#               8 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.20 %
+YAML             4 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Markdown         4 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+JSON             1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Config           25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+XML              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+```
+
 <!--END_SECTION:waka-->
 
 I find this extremely funky, to have an actual statistic of time spent in the different projects I work on.
