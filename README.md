@@ -26,6 +26,8 @@ XML              17 mins         ▒░░░░░░░░░░░░░░�
 I find this extremely funky, to have an actual statistic of time spent in the different projects I work on.
 I highly recommend signing up with [WakaTime](https://wakatime.com/) if you like.
 
+[athul/waka-readme](https://github.com/athul/waka-readme) GitHub action used to update the readme daily.
+
 <!--
 **peterjokumsen/peterjokumsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
