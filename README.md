@@ -10,6 +10,8 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 
 ## My WakaTime
 
+[![wakatime](https://wakatime.com/badge/user/735dbbb1-6675-460c-9d50-3e7bac4c417c.svg)](https://wakatime.com/@735dbbb1-6675-460c-9d50-3e7bac4c417c)
+
 <!--START_SECTION:waka-->
 
 ```text
