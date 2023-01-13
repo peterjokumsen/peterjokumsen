@@ -6,7 +6,7 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 
 ## My GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterjokumsen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterjokumsen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My WakaTime
 
