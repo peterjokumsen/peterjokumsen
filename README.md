@@ -6,7 +6,7 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 
 ## My GitHub Stats
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterjokumsen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's GitHub stats](https://stats.chillviking.dev/api?username=peterjokumsen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My WakaTime
 
