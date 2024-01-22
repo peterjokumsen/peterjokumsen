@@ -15,7 +15,7 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
 Total Time: 9 hrs 49 mins
 
