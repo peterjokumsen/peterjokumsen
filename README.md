@@ -4,10 +4,6 @@ Welcome to my profile, as with everything I do this is a work in progress.
 
 Hope you like and feel free to send me any critiques or feedback, would be great to hear from you.
 
-## My GitHub Stats
-
-[![Peter's GitHub stats](https://stats.chillviking.dev/api?username=peterjokumsen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My WakaTime
 
 [![wakatime](https://wakatime.com/badge/user/735dbbb1-6675-460c-9d50-3e7bac4c417c.svg)](https://wakatime.com/@735dbbb1-6675-460c-9d50-3e7bac4c417c)
