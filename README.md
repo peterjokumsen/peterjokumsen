@@ -11,15 +11,15 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-Total Time: 21 hrs 46 mins
+Total Time: 28 hrs
 
-TypeScript        15 hrs 54 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.11 %
-YAML              1 hr 42 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.88 %
-HTML              1 hr 27 mins    ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.71 %
-Markdown          1 hr 3 mins     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.86 %
-C#                53 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.12 %
+TypeScript        19 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.03 %
+YAML              1 hr 42 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.12 %
+C#                1 hr 33 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.58 %
+HTML              1 hr 16 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.56 %
+Markdown          1 hr 14 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.45 %
 ```
 
 <!--END_SECTION:waka-->
