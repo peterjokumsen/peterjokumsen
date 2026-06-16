@@ -11,7 +11,7 @@ Hope you like and feel free to send me any critiques or feedback, would be great
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
 Total Time: 14 hrs 4 mins
 
